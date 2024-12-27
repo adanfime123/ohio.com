@@ -1,4 +1,10 @@
 .welcome {
     font-size: 20px;
+    background-color: #2600ff;
     color: #333;
+}
+
+::backdrop{
+    background-color: #ffffff;
+    opacity: 0.5;
 }
