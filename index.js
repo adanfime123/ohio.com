@@ -1,3 +1,4 @@
-document.getElementById("change").addEventListener("click", function() {
-  document.getElementById("text").innerHTML = "Hello World!";
-});
+document.getElementById("change").addEventListener("click", one);
+function one() {
+    document.getElementById("text").innerHTML = "Hello World!";
+}
