@@ -4,7 +4,10 @@
     color: #333;
 }
 
-::backdrop{
-    background-color: #ffffff;
-    opacity: 0.5;
+.change {
+    background-color: #2600ff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
 }
